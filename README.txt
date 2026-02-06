@@ -1,3 +1,5 @@
+Helps to open and close the mysql in the Mac terminal automatically with just 1 app click
+
 Just put this file in your Desktop and it should work
 
 mysql-launcher.applescript shows what code I used for the launcher app
